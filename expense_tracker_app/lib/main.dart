@@ -60,7 +60,7 @@ void main() {
               titleLarge: TextStyle(
                 fontWeight: FontWeight.bold,
                 color: kColorScheme.onSecondaryContainer,
-                fontSize: 17,
+                fontSize: 16,
               ),
             ),
       ),
